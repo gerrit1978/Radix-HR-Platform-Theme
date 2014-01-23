@@ -12,7 +12,7 @@
 ; page at admin/appearance.
 
 screenshot  = screenshot.png
-name        = Radix
+name        = Radix Default
 description = Read the <a href="https://drupal.org/node/873778">online docs</a> or the included README.txt on how to create a theme with Zen.
 version     = 7.x-1.0
 
